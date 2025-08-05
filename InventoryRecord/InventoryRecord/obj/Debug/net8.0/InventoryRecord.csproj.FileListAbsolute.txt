@@ -1,0 +1,14 @@
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\bin\Debug\net8.0\InventoryRecord.exe
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\bin\Debug\net8.0\InventoryRecord.deps.json
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\bin\Debug\net8.0\InventoryRecord.runtimeconfig.json
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\bin\Debug\net8.0\InventoryRecord.dll
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\bin\Debug\net8.0\InventoryRecord.pdb
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\obj\Debug\net8.0\InventoryRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\obj\Debug\net8.0\InventoryRecord.AssemblyInfoInputs.cache
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\obj\Debug\net8.0\InventoryRecord.AssemblyInfo.cs
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\obj\Debug\net8.0\InventoryRecord.csproj.CoreCompileInputs.cache
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\obj\Debug\net8.0\InventoryRecord.dll
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\obj\Debug\net8.0\refint\InventoryRecord.dll
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\obj\Debug\net8.0\InventoryRecord.pdb
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\obj\Debug\net8.0\InventoryRecord.genruntimeconfig.cache
+C:\Users\Kotei Justice\Desktop\InventoryRecord\InventoryRecord\obj\Debug\net8.0\ref\InventoryRecord.dll

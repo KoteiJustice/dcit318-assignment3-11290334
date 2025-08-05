@@ -1,0 +1,14 @@
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.exe
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.deps.json
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.runtimeconfig.json
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.dll
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.pdb
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfo.cs
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.dll
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\obj\Debug\net8.0\refint\GradingSystem.dll
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.pdb
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.genruntimeconfig.cache
+C:\Users\Kotei Justice\Desktop\GradingSystem\GradingSystem\obj\Debug\net8.0\ref\GradingSystem.dll

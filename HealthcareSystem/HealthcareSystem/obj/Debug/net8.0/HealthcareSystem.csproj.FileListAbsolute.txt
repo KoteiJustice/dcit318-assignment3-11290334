@@ -1,0 +1,14 @@
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.exe
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.deps.json
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.runtimeconfig.json
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.dll
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.pdb
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.dll
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\refint\HealthcareSystem.dll
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.pdb
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\Kotei Justice\Desktop\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\ref\HealthcareSystem.dll

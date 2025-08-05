@@ -1,0 +1,14 @@
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\bin\Debug\net8.0\WareHouseInventory.exe
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\bin\Debug\net8.0\WareHouseInventory.deps.json
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\bin\Debug\net8.0\WareHouseInventory.runtimeconfig.json
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\bin\Debug\net8.0\WareHouseInventory.dll
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\bin\Debug\net8.0\WareHouseInventory.pdb
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\obj\Debug\net8.0\WareHouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\obj\Debug\net8.0\WareHouseInventory.AssemblyInfoInputs.cache
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\obj\Debug\net8.0\WareHouseInventory.AssemblyInfo.cs
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\obj\Debug\net8.0\WareHouseInventory.csproj.CoreCompileInputs.cache
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\obj\Debug\net8.0\WareHouseInventory.dll
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\obj\Debug\net8.0\refint\WareHouseInventory.dll
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\obj\Debug\net8.0\WareHouseInventory.pdb
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\obj\Debug\net8.0\WareHouseInventory.genruntimeconfig.cache
+C:\Users\Kotei Justice\Desktop\WareHouseInventory\WareHouseInventory\obj\Debug\net8.0\ref\WareHouseInventory.dll
